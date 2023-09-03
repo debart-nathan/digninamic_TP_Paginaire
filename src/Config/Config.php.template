@@ -1,0 +1,13 @@
+<?php
+
+namespace Nath\TpPaginaire\Config;
+
+
+class Config
+{
+    //controller namespace (finished by \\)
+    public const CONTROLLER = '';
+
+    //path to views from src
+    public const VIEWS = '';
+}
